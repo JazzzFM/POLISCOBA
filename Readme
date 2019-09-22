@@ -4,3 +4,7 @@ Supervisores: M.C. Libia Zoraida Torres e Ing. Juan Ignacio Lima Velazco.
 
 Descripción: Un módulo móvil que, en conjunto con un brazo robótico, conforme un solo robot de limpieza que facilite la realización de tareas domésti-
 cas, en específico barrer y trapear, mediante la implementación de mecanismos y sistemas automatizados. 
+
+
+Código en C y un microcontrolador 16F886 mediante el uso de sensores reflex pueda un robot hacer movimientos automáticos 
+a través de un cuarto limpiando el piso y evadiendo obstáculos.
